@@ -3,8 +3,23 @@
     text-align: center;
 }
 
+body {
+    background-image: url("img/cooking.gif");
+}
+
+img {
+    border-radius: 40%;
+    max-width: 500px;
+    max-height: auto;
+}
+
 ul {
     list-style: none;
+}
+
+
+ol li {
+    text-align: left;
 }
 
 .recipe-name {
