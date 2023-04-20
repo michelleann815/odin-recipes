@@ -1,0 +1,14 @@
+* {
+    font-family:"Verdana", "Geneva", "Tahoma", sans-serif;
+    text-align: center;
+}
+
+ul {
+    border: 1px solid;
+    border-radius: 60px;
+    padding: 5px;
+}
+
+.recipe-name {
+    display: inline-block;
+}
